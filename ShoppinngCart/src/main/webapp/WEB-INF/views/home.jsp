@@ -10,9 +10,7 @@
 	
 </script>
 <style>
-body{
-background-image:url('file:\\\C:\Users\2014\Downloads\paper.jpg');
-  }
+body
 h1 {
 	color: white;
 	text-align: center;
